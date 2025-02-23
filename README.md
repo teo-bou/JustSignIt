@@ -18,12 +18,6 @@ Just Sign It is a web application designed to help users learn and practice sign
 
 Just Sign It leverages machine learning and computer vision to recognize hand gestures and provide feedback to users as they practice sign language. The application is built using React for the frontend and Flask for the backend.
 
-## Features
-
-- Real-time hand gesture recognition
-- Interactive video tutorials
-- Progress tracking and scoring
-- Responsive design
 
 ## Installation
 
@@ -36,7 +30,7 @@ Just Sign It leverages machine learning and computer vision to recognize hand ge
 
 ### Frontend Setup
 
-1. Navigate to the `frontend` directory:
+1. Navigate to the `reactfront` directory:
     ```sh
     cd frontend
     ```
