@@ -4,6 +4,7 @@ Just Sign It is a web application designed to help users learn and practice sign
 
 ## Deliverable 
 [Business Model Canva](Business Model Canva Just Sign it!.pdf)
+
 [Presentation](3 min Pitch Just Sign it ! .pdf)
 
 
