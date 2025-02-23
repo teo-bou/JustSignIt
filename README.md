@@ -7,7 +7,7 @@ Just Sign It is a web application designed to help users learn and practice sign
 
 [Presentation](Pitch.pdf)
 
-[Video](Video.mp4)
+[Video](videoGGH25.mp4)
 
 
 ## Table of Contents
