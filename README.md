@@ -3,8 +3,8 @@
 Just Sign It is a web application designed to help users learn and practice sign language through interactive video tutorials and real-time feedback.
 
 ## Deliverable 
-Business model Canva : [[Business Model Canva Just Sign it!.pdf]]
-Slides : [[3 min Pitch Just Sign it ! .pdf]]
+[Business Model Canva](Business Model Canva Just Sign it!.pdf)
+[Presentation](3 min Pitch Just Sign it ! .pdf)
 
 
 ## Table of Contents
