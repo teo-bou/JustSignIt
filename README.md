@@ -78,10 +78,4 @@ Just Sign It leverages machine learning and computer vision to recognize hand ge
 2. Follow the on-screen instructions to start practicing sign language.
 3. Use the video feed to see real-time predictions and feedback.
 
-## Contributing
 
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
