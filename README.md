@@ -37,7 +37,7 @@ Just Sign It leverages machine learning and computer vision to recognize hand ge
 
 1. Navigate to the `reactfront` directory:
     ```sh
-    cd frontend
+    cd reactfront
     ```
 
 2. Install the dependencies:
